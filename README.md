@@ -1,3 +1,5 @@
+This is a temporary NPM Package, to get NG2-Archwizard working for Angular 5
+
 # Overview ng2-archwizard
 
 [![Build Status](https://travis-ci.org/madoar/ng2-archwizard.svg?branch=master)](https://travis-ci.org/madoar/ng2-archwizard)
